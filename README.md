@@ -230,21 +230,6 @@ data-warehouse-project/
 * Sales Analysis
 * Business KPI Development
 
----
-
-## 📖 Documentation
-
-Additional project documentation can be found in the `docs/` directory:
-
-* [Data Architecture](docs/data_architecture.drawio)
-* [Data Flow](docs/data_flow.drawio)
-* [Data Models](docs/data_models.drawio)
-* [ETL Process](docs/etl.drawio)
-* [Data Catalog](docs/data_catalog.md)
-* [Naming Conventions](docs/naming-conventions.md)
-
----
-
 ## 🎯 Portfolio Objective
 
 This project was developed as a portfolio project to demonstrate practical experience in:
